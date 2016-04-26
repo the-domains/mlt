@@ -1,0 +1,28 @@
+name: MLT
+favicon: null
+layout_spectrum: 0.07390986359678209
+typography_spectrum: 0.6126884394325316
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7517510440666229
+  lightness: 0.03177370270714164
+  saturation: 0.9982688394375145
+  rhythmicContrast: 0.6455185811500996
+purpose: []
